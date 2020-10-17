@@ -1,0 +1,25 @@
+.footer {
+    color: yellowgreen;
+    background-color: hotpink;
+}
+.table {
+    border: 1px solid black;
+    border-collapse: collapse;
+}
+
+.table td {
+    border: 1px solid green
+}
+
+body {
+    height: 500px;
+    background-image: linear-gradient(green, yellow, red)
+}
+
+header {
+    text-align: center;
+}
+
+main {
+    margin: 0 auto;
+}
